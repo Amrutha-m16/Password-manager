@@ -1,3 +1,6 @@
+A password manager is a website that is used to store and manage the data locally which helps the user for storing various online accounts and security features.
+
+
 # Password-manager
 1. Install xampp on your PC to your C-Drive.
 2. Unzip the file and copy the full files to your htdocs folder in xampp.
